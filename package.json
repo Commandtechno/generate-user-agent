@@ -3,5 +3,9 @@
   "version": "1.0.1",
   "scripts": {
     "build": "tsc index -d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Commandtechno/generate-user-agent.git"
   }
 }
